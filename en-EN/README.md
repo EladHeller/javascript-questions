@@ -24,6 +24,7 @@ Feel free to reach out to me! 😊 <br />
 * [Deutsch](../de-DE/README.md)  
 * [Español](../es-ES/README-ES.md)
 * [Français](../fr-FR/README_fr-FR.md)
+* [עברית](../he-IL/README_he-IL.md)
 * [日本語](../ja-JA/README-ja_JA.md)  
 * [한국어](../ko-KR/README-ko_KR.md)
 * [Nederlands](./nl-NL/README.md)
